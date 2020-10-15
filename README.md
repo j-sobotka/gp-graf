@@ -5,7 +5,7 @@ query: "github graph layout js"
 ## VIS
 
 - page: https://visjs.org/
-- active: [x]
+- active: [ x ]
 - Funkcje:
   - layouts(Hierarchical)
   - stylowanie
