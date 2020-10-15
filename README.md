@@ -1,4 +1,4 @@
-# GRAPH LIBRARY
+# GRAPH LIBRARIES
 
 Przegląd zawiera aktywne biblioteki z pewną ilością poleceń od społeczności. Nie umieszczałem tutaj wszystkich bibliotek jakie sprawdzałem. Tylko te warte uwagi, rozwijane, rozbudowane.
 
