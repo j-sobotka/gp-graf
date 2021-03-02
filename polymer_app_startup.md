@@ -1,8 +1,8 @@
 # Konfiguracja środowiska dla aplikaji z Polymer 2.0
 
-Node - wersja nie nowsza niż 11.15.0
-Bower - najnowsza wersja (npm install -g bower)
-Polymer 1.6.0 (npm install -g polymer-cli@1.6.0)
+- Node - wersja nie nowsza niż 11.15.0
+- Bower - najnowsza wersja (npm install -g bower)
+- Polymer 1.6.0 (npm install -g polymer-cli@1.6.0)
 
 # Uruchomienie projektu
 
