@@ -3,7 +3,7 @@
 ## Dla MAC OS:
 
 - Wystarczy wykonać kroki w instrukcji
-  https://docs.github.com/en/enterprise/2.13/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+  https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - Wykonać dowolną polecenie do repo np. git clone (w celu dodania git'a do know_hosts ~/.ssh)
 
 ## Dla Windows
